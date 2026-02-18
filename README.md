@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name/Raess]
+# 👋 Hi, I'm Rafa
 
 ### 🚀 Data & AI Engineering Student | Data Engineer | ML Pytorch Specialist | Python & SQL Developer | Web Scraping & Automation
 I specialize in transforming raw data into actionable intelligence. Currently balancing academic rigor at the University of León (ULe) with building real-world automation and computer vision solutions.
